@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello I'm Mason Hames
 
 
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-🙋‍♂️ I am a graduate student of GeorgiaTech's Coding Bootcamp and currently learning `Sass` and `Python`. Aiming to specialize in `React`
+🙋‍♂️ I am a graduate student of Georgia Tech's Coding Bootcamp and currently learning `Sass` and `Python`. Aiming to specialize in `React`
 
 🔭 I’m currently working on my portoflio site with `ReactJS`
 
