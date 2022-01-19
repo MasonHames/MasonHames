@@ -57,4 +57,4 @@ Hello I'm Mason Hames
 </p>
 
 ❤️ Let's get connected:
-<a href="https://www.linkedin.com/in/mason-hames/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<p><a href="https://www.linkedin.com/in/mason-hames/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a></p>
