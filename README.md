@@ -59,5 +59,5 @@ Here are some ideas to get you started:
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
 </p>
 
-❤️ Let's get connected:
+## ❤️ Let's get connected:
 <p><a href="https://www.linkedin.com/in/mason-hames/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a></p>
