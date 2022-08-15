@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-🙋‍♂️ I am a graduate student of Georgia Tech's Coding Bootcamp and currently learning `Sass` and `Python`. Aiming to specialize in `React`
+🙋‍♂️ I am a graduate student of Georgia Tech's Coding Bootcamp. Aiming to specialize in `React`
 
 🔭 I’m currently working on my portoflio site with `ReactJS`
 
-🌱 I’m currently learning `Sass` and `Python`
+🌱 I’m currently learning `React` and `Cypress`
 
 🤔 I’m looking for help with `Smash-Char-Theme-Select`
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about anything
 
-⚡ Fun fact: I waste most of my time playing games
+⚡ Fun fact: I exercise when I get stuck on a problem
 
 ## 🛠️ Technologies and Tools I use:
  <p>
