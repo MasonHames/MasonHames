@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-🙋‍♂️ I am a graduate student of Georgia Tech's Coding Bootcamp. Aiming to specialize in `React`
+🙋‍♂️ I am a graduate student of Georgia Tech's Coding Bootcamp. Aiming to specialize in `ReactJS and Front End Development`
 
-🔭 I’m currently working on my portoflio site with `ReactJS`
+🔭 I’m currently working on a social tech site with `Java and Springboot`
 
-🌱 I’m currently learning `React` and `Cypress`
+🌱 I’m currently learning `Java` and `AWS`
 
 🤔 I’m looking for help with `Smash-Char-Theme-Select`
 
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I exercise when I get stuck on a problem
 
 ## 🛠️ Technologies and Tools I use:
+<!-- <img alt="WORDS" src="shield.io badge link" height="25px"/> -->
  <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
@@ -67,6 +68,8 @@ Here are some ideas to get you started:
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="25px"/>
 <img alt="Mocha" src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" height="25px"/>
 <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" height="25px"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25px"/>
+<img alt="Java" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
