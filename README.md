@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
+<br>
 🙋‍♂️ I am a graduate student of Georgia Tech's Coding Bootcamp. Aiming to specialize in `ReactJS and Front End Development`
 
 🔭 I’m currently working on a social tech site with `Java and Springboot`
