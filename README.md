@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 🎯 Aiming to specialize in `ReactJS and Front End Development`
 
-🔭 I’m currently working on a social tech site with `Java and Springboot`
+🔭 I’m currently working on a security badge app with `C# and .Net`
 
-🌱 I’m currently learning `Java` and `AWS`
+🌱 I’m currently learning `C#` and `AWS`
 
 🤔 I’m looking for help with `Smash-Char-Theme-Select`
 
